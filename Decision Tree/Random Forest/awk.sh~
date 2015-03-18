@@ -1,0 +1,5 @@
+awk '$42 /smurf/
+/normal/
+/ftp_write/
+/snmpgetattack/
+/warezmaster/' corrected > a
